@@ -1,0 +1,13 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f3e9e9;
+        margin: 100;
+        padding: 100;
+    }
+    .h3{
+        color: rgb(207, 36, 36);
+        text-align: center;
+        
+        padding: 20px;
+    }
